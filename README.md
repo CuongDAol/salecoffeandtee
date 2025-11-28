@@ -73,7 +73,7 @@ Dựa trên sự so sánh trực tiếp giữa dữ liệu của cửa hàng c�
 * **Hiệu Quả Tích Cực:** Giá trị trung bình đơn hàng (AOV) có áp dụng khuyến mãi (~44,419 VND) cao hơn một chút so với đơn hàng không khuyến mãi (~43,144 VND).
 * **Kết Luận:** Chiến lược khuyến mãi có hiệu quả tích cực và nhất quán trong việc nâng cao giá trị giao dịch.
 
-(https://github.com/CuongDAol/salecoffeandtee/blob/a1c45594af7d42f7400ff5acc987e1ad5fb41160/Gi%C3%A1%20tr%E1%BB%8B%20giao%20d%E1%BB%8Bchhtrung%20%20b%C3%ACnh.png)
+![BieudoBieudo](https://github.com/CuongDAol/salecoffeandtee/blob/a1c45594af7d42f7400ff5acc987e1ad5fb41160/Gi%C3%A1%20tr%E1%BB%8B%20giao%20d%E1%BB%8Bchhtrung%20%20b%C3%ACnh.png)
 ---
 
 ## 💡 ĐỀ XUẤT HÀNH ĐỘNG CỤ THỂ (ACTION PLAN)
