@@ -10,7 +10,7 @@ Quá trình phân tích sử dụng 02 tập dữ liệu chính:
 * **`tatca.xlsx`**: Dữ liệu tổng hợp doanh thu của toàn bộ hệ thống cửa hàng (All Stores).
 
 ### ⏳ Phạm Vi Thời Gian (Timeframe)
-* Dữ liệu bao gồm toàn bộ các giao dịch phát sinh trong **4 tháng**, từ ngày **01/03/2023** đến hết ngày **30/06/2023**.
+* Dữ liệu là toàn bộ các giao dịch phát sinh trong **4 tháng**, từ ngày **01/03/2023** đến hết ngày **30/06/2023**.
 
 ### 🔍 Các Chỉ Số Phân Tích Chính
 Báo cáo tập trung khai thác các chiều thông tin sau:
